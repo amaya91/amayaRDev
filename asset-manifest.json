@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amayaRDev/static/css/main.5f361e03.chunk.css",
+    "main.js": "/amayaRDev/static/js/main.31a7aeb6.chunk.js",
+    "main.js.map": "/amayaRDev/static/js/main.31a7aeb6.chunk.js.map",
+    "runtime-main.js": "/amayaRDev/static/js/runtime-main.e07e363e.js",
+    "runtime-main.js.map": "/amayaRDev/static/js/runtime-main.e07e363e.js.map",
+    "static/js/2.f8e6fee6.chunk.js": "/amayaRDev/static/js/2.f8e6fee6.chunk.js",
+    "static/js/2.f8e6fee6.chunk.js.map": "/amayaRDev/static/js/2.f8e6fee6.chunk.js.map",
+    "index.html": "/amayaRDev/index.html",
+    "precache-manifest.18a282d42d06d92757ce0750850666f9.js": "/amayaRDev/precache-manifest.18a282d42d06d92757ce0750850666f9.js",
+    "service-worker.js": "/amayaRDev/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/amayaRDev/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f8e6fee6.chunk.js.LICENSE.txt": "/amayaRDev/static/js/2.f8e6fee6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e07e363e.js",
+    "static/js/2.f8e6fee6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.31a7aeb6.chunk.js"
+  ]
+}
