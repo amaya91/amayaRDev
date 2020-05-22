@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amayaRDev/static/css/main.5f361e03.chunk.css",
-    "main.js": "/amayaRDev/static/js/main.ac438ce7.chunk.js",
-    "main.js.map": "/amayaRDev/static/js/main.ac438ce7.chunk.js.map",
+    "main.js": "/amayaRDev/static/js/main.de88971b.chunk.js",
+    "main.js.map": "/amayaRDev/static/js/main.de88971b.chunk.js.map",
     "runtime-main.js": "/amayaRDev/static/js/runtime-main.e07e363e.js",
     "runtime-main.js.map": "/amayaRDev/static/js/runtime-main.e07e363e.js.map",
     "static/js/2.f8e6fee6.chunk.js": "/amayaRDev/static/js/2.f8e6fee6.chunk.js",
     "static/js/2.f8e6fee6.chunk.js.map": "/amayaRDev/static/js/2.f8e6fee6.chunk.js.map",
     "index.html": "/amayaRDev/index.html",
-    "precache-manifest.53de3d2aedb40e7a05824e143dc06f7c.js": "/amayaRDev/precache-manifest.53de3d2aedb40e7a05824e143dc06f7c.js",
+    "precache-manifest.d1a0313c9fda18358e630354094d5bdd.js": "/amayaRDev/precache-manifest.d1a0313c9fda18358e630354094d5bdd.js",
     "service-worker.js": "/amayaRDev/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/amayaRDev/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f8e6fee6.chunk.js.LICENSE.txt": "/amayaRDev/static/js/2.f8e6fee6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e07e363e.js",
     "static/js/2.f8e6fee6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ac438ce7.chunk.js"
+    "static/js/main.de88971b.chunk.js"
   ]
 }
