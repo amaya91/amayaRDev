@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36915a0ae9af808310746fa4c9b4b031",
+    "revision": "8599b8f605078f4bbf5c5e5ed76c456b",
     "url": "/amayaRDev/index.html"
   },
   {
-    "revision": "f9d91942f8844c4b62fd",
+    "revision": "06d9bfc7c11bf9e30cb3",
     "url": "/amayaRDev/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amayaRDev/static/js/2.f8e6fee6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9d91942f8844c4b62fd",
-    "url": "/amayaRDev/static/js/main.de88971b.chunk.js"
+    "revision": "06d9bfc7c11bf9e30cb3",
+    "url": "/amayaRDev/static/js/main.63459e39.chunk.js"
   },
   {
     "revision": "90fa18743a37df291c7c",
