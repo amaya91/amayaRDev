@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Ruth Amaya",
-    "occupation":"Web Developer",
-    "description":"Currently, I am employed as a full-time intern at JB Hunt working in the E&T department to expand my skill set on back-end technologies.",
+    "occupation":"Software Developer",
+    "description":"Currently, I am employed as a full-time intern at JB Hunt working in the E&T department to expand my skill set and advance my career",
     "image":"profilepic.jpg",
     "bio":"After several years in the workforce, I decided it was time for a career change. The evolving world of technology called to me. I enrolled in a front-end development bootcamp and began my journey. Being a problem-solver, I enjoy puzzles, challenges, and riddles. Web development has allowed me to work doing what I love.",
     "contactmessage":"Got a puzzle for me? I would love to hear from you. How can I help?",
@@ -49,7 +49,7 @@
         "company":"JB Hunt",
         "title":"Information Services Intern ",
         "years":"March 2020 - Present",
-        "description":"Worked on the DCS Load Planning team in an Agile environment learning popular back-end technologies. I completed tasks and provided updates on the status of these tasks."
+        "description":"Worked on the DCS Load Planning team in an Agile environment learning popular back-end technologies for over 2 months. I completed tasks and provided updates on the status of these tasks. Currently working with the mobile development team to add features including banner notifications and dark mode to the Drive app."
       },
       {
         "company":"Harvest Time Academy",
